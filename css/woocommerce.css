@@ -6,12 +6,13 @@ body {
     font-family: "Roboto", san-serif;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: center;
+    align-items: justify;
+    justify-content: justify;
     height: 600vh;
     overflow: hidden;
     margin: 0;
     }
+
 
 @charset "UTF-8";
 
