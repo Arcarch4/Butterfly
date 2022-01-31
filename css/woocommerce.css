@@ -8,11 +8,10 @@ body {
     flex-direction: row;
     align-items: justify;
     justify-content: justify;
-    height: 450vh;
+    height: 500vh;
     overflow: hidden;
     margin: 0;
     }
-
 
 @charset "UTF-8";
 
