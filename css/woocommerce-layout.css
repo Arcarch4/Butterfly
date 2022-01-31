@@ -6,12 +6,12 @@ body {
     font-family: "Roboto", san-serif;
     display: flex;
     flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    height: 300vh;
+    align-items: justify;
+    justify-content: justify;
+    height: 450vh;
     overflow: hidden;
     margin: 0;
-}
+    }
 
 .woocommerce #content div.product .woocommerce-tabs ul.tabs:after, .woocommerce #content div.product .woocommerce-tabs ul.tabs:before, .woocommerce #content div.product div.thumbnails:after, .woocommerce #content div.product div.thumbnails:before, .woocommerce .col2-set:after, .woocommerce .col2-set:before, .woocommerce div.product .woocommerce-tabs ul.tabs:after, .woocommerce div.product .woocommerce-tabs ul.tabs:before, .woocommerce div.product div.thumbnails:after, .woocommerce div.product div.thumbnails:before, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs:after, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page #content div.product div.thumbnails:after, .woocommerce-page #content div.product div.thumbnails:before, .woocommerce-page .col2-set:after, .woocommerce-page .col2-set:before, .woocommerce-page div.product .woocommerce-tabs ul.tabs:after, .woocommerce-page div.product .woocommerce-tabs ul.tabs:before, .woocommerce-page div.product div.thumbnails:after, .woocommerce-page div.product div.thumbnails:before {
     content: " ";
