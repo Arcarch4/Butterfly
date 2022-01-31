@@ -6,8 +6,8 @@ body {
     font-family: "Roboto", san-serif;
     display: flex;
     flex-direction: row;
-    align-items: justify;
-    justify-content: justify;
+    align-items: center;
+    justify-content: center;
     height: 500vh;
     overflow: hidden;
     margin: 0;
