@@ -6,9 +6,9 @@ body {
     font-family: "Roboto", san-serif;
     display: flex;
     flex-direction: row;
-    align-items: justify;
+    align-items: center;
     justify-content: center;
-    height: 280vh;
+    height: 100vh;
     overflow: hidden;
     margin: 0;
     }
