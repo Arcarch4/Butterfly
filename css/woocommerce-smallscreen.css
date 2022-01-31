@@ -8,10 +8,11 @@ body {
     flex-direction: row;
     align-items: justify;
     justify-content: justify;
-    height: 400vh;
+    height: 450vh;
     overflow: hidden;
     margin: 0;
     }
+
 
 
 .woocommerce table.shop_table_responsive tbody th, .woocommerce table.shop_table_responsive thead, .woocommerce-page table.shop_table_responsive tbody th, .woocommerce-page table.shop_table_responsive thead {
