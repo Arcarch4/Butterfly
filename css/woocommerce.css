@@ -7,12 +7,11 @@ body {
     display: flex;
     flex-direction: row;
     align-items: justify;
-    justify-content: justify;
-    height: 450vh;
+    justify-content: center;
+    height: 280vh;
     overflow: hidden;
     margin: 0;
     }
-
 
 @charset "UTF-8";
 
