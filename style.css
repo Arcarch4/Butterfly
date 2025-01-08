@@ -362,7 +362,7 @@ textarea {
 	overflow:auto;
 	/* Removes default vertical scrollbar in IE6/7/8/9 */
 	padding:5px;
-	vertical-align:top;
+	vertical-align:none;
 	/* Improves readability and alignment in all browsers */
 	width:98%;
 }
@@ -967,7 +967,7 @@ embed,iframe,object {
 	margin-bottom:10px;
 	padding-right:2.6%;
 	text-align:center;
-	vertical-align:top;
+	vertical-align:none;
 	width:100%;
 }
 .gallery-item img {
@@ -1340,7 +1340,7 @@ a.button {
 	height:32px;
 	line-height:1;
 	text-decoration:inherit;
-	vertical-align:top;
+	vertical-align:none;
 	width:32px;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -2110,7 +2110,7 @@ a.portfoliotype:last-child:after {
 	min-width:150px;
 }
 .woocommerce div.product form.cart .button {
-	vertical-align:middle;
+	vertical-align:none;
 	float:left;
 	text-transform:uppercase;
 	letter-spacing:1px;
