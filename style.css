@@ -33,7 +33,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	margin:0;
 	outline:0;
 	padding:0;
-	/*vertical-align: baseline;*/
+	vertical-align: 100%;
 }
 html {
 	font-size:62.5%;
@@ -230,7 +230,7 @@ sup,sub {
 	height:0;
 	line-height:0;
 	position:relative;
-	vertical-align:baseline;
+	vertical-align:100%;
 }
 sup {
 	bottom:1ex;
@@ -308,7 +308,7 @@ button,input,select,textarea {
 	/* Corrects font size not being inherited in all browsers */
 	margin:0;
 	/* Addresses margins set differently in IE6/7,F3/4,S5,Chrome */
-	vertical-align:baseline;
+	vertical-align:100%;
 	/* Improves appearance and consistency in all browsers */
 }
 button,input[type="button"],input[type="reset"],input[type="submit"] {
