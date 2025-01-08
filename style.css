@@ -33,7 +33,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 	margin:0;
 	outline:0;
 	padding:0;
-	vertical-align: 100%;
+	align: center;
 }
 html {
 	font-size:62.5%;
@@ -230,7 +230,7 @@ sup,sub {
 	height:0;
 	line-height:0;
 	position:relative;
-	vertical-align:100%;
+	align:center;
 }
 sup {
 	bottom:1ex;
@@ -308,7 +308,7 @@ button,input,select,textarea {
 	/* Corrects font size not being inherited in all browsers */
 	margin:0;
 	/* Addresses margins set differently in IE6/7,F3/4,S5,Chrome */
-	vertical-align:100%;
+	align:center;
 	/* Improves appearance and consistency in all browsers */
 }
 button,input[type="button"],input[type="reset"],input[type="submit"] {
@@ -362,7 +362,7 @@ textarea {
 	overflow:auto;
 	/* Removes default vertical scrollbar in IE6/7/8/9 */
 	padding:5px;
-	vertical-align:top;
+	align:top;
 	/* Improves readability and alignment in all browsers */
 	width:98%;
 }
@@ -967,7 +967,7 @@ embed,iframe,object {
 	margin-bottom:10px;
 	padding-right:2.6%;
 	text-align:center;
-	vertical-align:top;
+	align:top;
 	width:100%;
 }
 .gallery-item img {
@@ -1340,7 +1340,7 @@ a.button {
 	height:32px;
 	line-height:1;
 	text-decoration:inherit;
-	vertical-align:top;
+	align:top;
 	width:32px;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -2110,7 +2110,7 @@ a.portfoliotype:last-child:after {
 	min-width:150px;
 }
 .woocommerce div.product form.cart .button {
-	vertical-align:middle;
+	align:middle;
 	float:left;
 	text-transform:uppercase;
 	letter-spacing:1px;
